@@ -1,7 +1,7 @@
 {
-	"name":"Address Book for JavaScript",
-	"description":"An address book app for JavaScript showing user registration, user login, and CRUD.",
+	"name":"Device manager",
+	"description":"A device manager for IOT devices",
 	"type": 1,
-	"path": "/add_javascript/index.html",
+	"path": "/src/index.html",
 	"is_active": true
 }
