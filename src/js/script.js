@@ -4,8 +4,8 @@
     //  DreamFactory 2.0 instance specific constants
     //--------------------------------------------------------------------------
 
-    var INSTANCE_URL   = '';
-    var APP_API_KEY     = '';
+    var INSTANCE_URL   = 'https://api.lts.no';
+    var APP_API_KEY     = 'a9d6c7cbe33f6a5778afc3e7ebd9722fcc3c67c1ad33560e35b6da4597b79786';
 
 
 
